@@ -1,2 +1,8 @@
 # neo4j-marvel
-how to import and analyse neo4j marvel graph
+how to import marvel graph into neo4j
+
+## Data:
+
+edges.csv was downloaded from https://www.kaggle.com/csanhueza/the-marvel-universe-social-network
+
+
