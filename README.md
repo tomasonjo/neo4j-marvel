@@ -5,4 +5,8 @@ how to import marvel graph into neo4j
 
 edges.csv was downloaded from https://www.kaggle.com/csanhueza/the-marvel-universe-social-network
 
+## Blog posts
+
+https://tbgraph.wordpress.com/category/marvel/
+
 
